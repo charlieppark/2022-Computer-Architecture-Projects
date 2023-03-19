@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\chanh\source\repos\HW4\HW4\base_header.h(6,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\chanh\source\repos\HW4\HW4\main.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\chanh\source\repos\HW4\HW4\components.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\chanh\source\repos\HW4\HW4\main.c(117,19): warning C4013: 'memset' undefined; assuming extern returning int
+C:\Users\chanh\source\repos\HW4\HW4\main.c(117,101): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\chanh\source\repos\HW4\HW4\main.c(275,47): warning C4013: 'jump_address' undefined; assuming extern returning int
+  HW4.vcxproj -> C:\Users\chanh\source\repos\HW4\Debug\HW4.exe
